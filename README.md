@@ -1,4 +1,4 @@
-# Vue.js XSS (Cross-Site Scripting) Payload List 
+# Vue.js XSS (Cross-Site Scripting)
 
 ## XSS Payload List for Vue.js (v2 & v3):
 ```
